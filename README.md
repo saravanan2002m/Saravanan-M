@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java script and React**
 
-- 📫 How to reach me **saravanan052002@gmail.com**
+- 📫 How to reach me **saravananm052002@gmail.com**
 
 - ⚡ Fun fact **I think I am good boy**
 
